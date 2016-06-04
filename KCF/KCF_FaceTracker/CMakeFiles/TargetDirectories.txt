@@ -1,0 +1,3 @@
+/home/mark/Engineer/Tracker/KCF/KCF_FaceTracker/CMakeFiles/edit_cache.dir
+/home/mark/Engineer/Tracker/KCF/KCF_FaceTracker/CMakeFiles/rebuild_cache.dir
+/home/mark/Engineer/Tracker/KCF/KCF_FaceTracker/CMakeFiles/VIDEO.dir
