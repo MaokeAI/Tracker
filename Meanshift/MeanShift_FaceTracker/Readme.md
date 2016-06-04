@@ -1,7 +1,7 @@
 # Camshift Face Tracker
 It is a tracker using Camshift based on OpenCV
 ## Method
-首先由Haar特征的Adaboost分类器检测人脸，然后可以通过Camshift算法进行人脸跟踪
+首先由Haar特征的Adaboost分类器检测人脸，然后可以通过Camshift算法进行人脸跟踪,但是由于算法本身描述子的原因跟踪效果不好
 
 ## compile
 g++ classTest.cpp -o camTracker `pkg-config --libs opencv --cflags`
